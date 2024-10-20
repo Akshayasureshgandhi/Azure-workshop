@@ -1,0 +1,88 @@
+What is Cloud Computing?
+
+Cloud computing is the on-demand delivery of IT services like compute power, storage, databases, and software over the internet, based on a pay-as-you-go pricing model.
+
+Cloud Service Models
+
+1. Infrastructure as a Service (IaaS)
+Definition: Provides virtual machines and servers for hosting applications.
+Example: Azure Virtual Machines
+
+2. Platform as a Service (PaaS)
+Definition: Offers a virtual platform to build, deploy, and test applications without worrying about infrastructure.
+Example: Azure App Service
+
+3. Software as a Service (SaaS)
+Definition: Provides software applications over the internet, eliminating the need for installation and maintenance.
+Example: Microsoft 365
+
+Benifits of cloud computing
+1. Scalability
+2. Accessibility
+3. Improved Performance
+4. Maintenance
+
+Challenges in Cloud Adoption (SWOT Analysis)
+
+Strengths:
+Scalability: Easily adjust resources to meet demand.
+Cost Effectiveness: Lower costs by reducing hardware and maintenance expenses.
+
+Weaknesses:
+Dependence on Internet: Reliable internet is necessary; downtime can lead to service disruption.
+Data Security & Privacy Concerns: Storing sensitive data offsite can raise concerns.
+
+Opportunities:
+Growing Market Demand: Increased reliance on cloud computing across industries.
+Emerging Technologies: Integration of AI, ML, and IoT with cloud services.
+
+Threats:
+Competition: The cloud computing market is highly competitive.
+Regulatory Changes: Data protection regulations may impact cloud operations.
+
+Azure Physical Infrastructure
+
+Data Centers:
+Definition: Facilities housing servers and networking equipment for Azure services.
+Global Locations: Azure operates data centers worldwide.
+
+Regions:
+Definition: Azure organizes data centers into geographic regions.
+Factors: Consider data privacy, speed, and service availability when selecting a region.
+Example: US Cloud, China Cloud
+
+Availability Zones:
+Definition: Independent data centers within a region with separate power, cooling, and networking for high availability.
+
+
+Core Architectural Components of Azure
+
+1. Azure Regions: Geographically grouped data centers.
+Example: North Central US, Japan West
+
+2. Azure Sovereign Regions: Isolated regions with additional regulations.
+Example: US, Germany, China
+
+3. Azure Resources: Components like Virtual Machines, databases, and more.
+Example: Azure Virtual Machines (VM)
+
+4. Azure Subscription: Grants access to Azure services. Available as free or pay-as-you-go.
+Example: Free Subscription, Pay-As-You-Go
+
+5. Azure Policies: Governance policies applied at resource or group levels to enforce access control.
+
+On-Premises vs. Cloud
+
+On-Premises (Private Cloud): Managed entirely by the customer.
+Customer manages all infrastructure and software, including:
+     Data & Access
+     Applications
+     Runtime
+     Operating System
+     Virtual Machines
+     Storage
+     Networking
+     Compute
+
+Managed jointly between the customer and the cloud provider, depending on the service model (IaaS, PaaS, SaaS).
+
